@@ -6,7 +6,7 @@
 - [Components](#components)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Contributors](#codecontributors)
+- [Code Contributors](#code-contributors)
 - [License](#license)
 
 ## Introduction
