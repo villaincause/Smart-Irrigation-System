@@ -6,7 +6,7 @@
 - [Components](#components)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#contributors)
+- [Code Contributors](#codecontributors)
 - [License](#license)
 
 ## Introduction
@@ -50,8 +50,14 @@ The Smart Irrigation System project requires the following components:
 4. The LCD display (if used) will show real-time data such as soil moisture, pump status, and Wi-Fi connectivity.
 5. Customize the watering schedules and thresholds according to your specific plant requirements.
 
+## Code Contributors
+• Abubakar Siddiq Sazzad aka Kaito [GitHub](https://github.com/nekokaito))
+• Prince Islam [Facebook](https://www.facebook.com/Villaincause)
+We welcome contributions from the open-source community. If you find any issues or have suggestions for improvement, please feel free to create a pull request.
+
+## License
+This project is licensed under the [DMCA Policy](https://blynk.io/tos)
 
 
-Thank you for checking out our Smart Irrigation System project. We hope it helps you build an efficient and automated watering solution for your plants. 
-If you have any questions or need further assistance, please don't hesitate to contact us. Happy coding!
+Thank you for checking out our Smart Irrigation System project. We hope it helps you build an efficient and automated watering solution for your plants. If you have any questions or need further assistance, please don't hesitate to contact us. Happy coding!
 
