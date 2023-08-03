@@ -52,7 +52,9 @@ The Smart Irrigation System project requires the following components:
 
 ## Code Contributors
 • Abubakar Siddiq Sazzad aka Kaito [GitHub](https://github.com/nekokaito))
+
 • Prince Islam [Facebook](https://www.facebook.com/Villaincause)
+
 We welcome contributions from the open-source community. If you find any issues or have suggestions for improvement, please feel free to create a pull request.
 
 ## License
