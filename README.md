@@ -11,7 +11,7 @@
 
 ## Introduction
 
-The "Smart Irrigation System" is a project developed by the VOVO Circuit team, led by Abubakar Siddiq Sazzad (aka Kaito) and Prince Islam. This project aims to create an efficient and automated irrigation system using Arduino and the ESP8266 NOD MCU board. The system is designed to intelligently monitor and control the watering of plants based on various environmental factors, helping to conserve water and ensure optimal plant growth.
+The "Smart Irrigation System" is a project developed by the VOVO Circuit team, code devloped by Abubakar Siddiq Sazzad (aka Kaito) and Prince Islam. This project aims to create an efficient and automated irrigation system using Arduino and the ESP8266 NOD MCU board. The system is designed to intelligently monitor and control the watering of plants based on various environmental factors, helping to conserve water and ensure optimal plant growth.
 
 ## Features
 
